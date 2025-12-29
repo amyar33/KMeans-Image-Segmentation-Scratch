@@ -13,4 +13,4 @@ The repository includes `input_image.jpg` and the corresponding segmentation mas
 
 ## Structure
 - `Image_Segmentation_KMeans_Scratch.ipynb`: The core implementation.
-- `input_image.jpg`: The raw data used for the segmentation case study.
+- `matryoshka.jpg`: The raw data used for the segmentation case study.
